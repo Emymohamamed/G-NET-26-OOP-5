@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "G-NET-26-OOP-5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
